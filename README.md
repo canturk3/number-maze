@@ -1,3 +1,3 @@
 # number-maze
-Pac-Man like retro game
+Pac-Man like retro game\
 Written with Enigma library
